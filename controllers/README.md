@@ -84,7 +84,7 @@ product_catalog_api/
 │
 ├── utils/
 │
-├── .env
+├── .env.example
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
